@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@font-face {
+    font-family: "playfair";
+    src: url("./assets/fonts/PLAYFAIRDISPLAY-REGULAR.TTF") format(truetype);
+}
+*{
+    font-family: playfair;
+}
+body {
+  overflow-x: hidden;
+}
